@@ -10,7 +10,7 @@ def decode_letter(code)
 
   if code.is_a?(String)
     if !morse_alphabet[code].nil?
-      return morse_alphabet[code]
+      morse_alphabet[code]
     else
       puts 'Please introduce a valid morse character'
     end
@@ -28,17 +28,17 @@ def decode_word(code)
     letter = decode_letter(c)
     word.concat(letter) unless letter.nil?
   end
-  return word
+  word
 end
 
 # Create a method to decode the entire message in Morse code
 
 def decode_message(code)
-  words = code.split('   ').map do | c |
+  words = code.split('   ').map do |c|
     decode_word(c)
   end
-  message = words.join(" ")
+  message = words.join(' ')
   puts message
 end
 
-decode_message("-- -.--   -. .- -- .") #=> "MY NAME"
+decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...') #=> "A BOX FULL OF RUBIES"
