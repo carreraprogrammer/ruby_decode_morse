@@ -39,7 +39,6 @@
     <li><a href="https://www.ruby-lang.org/">Ruby</a></li>
   </ul>
 </details>
-<details>
 
 
 <!-- Features -->
