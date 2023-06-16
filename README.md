@@ -97,6 +97,7 @@ Use ruby to interact with the program
 To run tests, run the following command (functionality will be added in the future):
 
 ```sh
+  rubocop
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
