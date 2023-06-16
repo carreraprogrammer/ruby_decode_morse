@@ -22,7 +22,7 @@ end
 # Create a method to decode an entire word in Morse code
 
 def decode_word(code)
-  array = code.split(' ')
+  array = code.split
   word = ''
   array.each do |c|
     letter = decode_letter(c)
