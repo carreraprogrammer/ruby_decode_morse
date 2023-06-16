@@ -150,11 +150,8 @@ If you like this project please give a star.
 
 I wants to thank to my academy and my coding partners that always push me to be my best version
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
