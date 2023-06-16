@@ -148,12 +148,10 @@ If you like this project please give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+I wants to thank to my academy and my coding partners that always push me to be my best version
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
